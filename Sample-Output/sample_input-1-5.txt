@@ -1,0 +1,89 @@
+<Sentence id='1'>
+1	ଗୋଷ୍ଠୀର	unk
+2	ଲୋକମାନଙ୍କୁ	unk
+3	ପ୍ରଥମେ	unk
+4	ସାକ୍ଷାତ	unk
+5	କରିବା	unk
+6	ପାଇଁ	unk
+7	ଅଙ୍ଗନୱାଡି	unk
+8	କର୍ମୀଙ୍କୁ	unk
+9	ଗୁରୁତ୍ଵପୂର୍ଣ୍ଣ	unk
+10	ଭୂମିକା	unk
+11	ଅବଲମ୍ବନ	unk
+12	କରିବାକୁ	unk
+13	ପଡିବ	unk
+14	।	unk
+</Sentence>
+
+<Sentence id='2'>
+1	ନିଜର	unk
+2	ଦୈନନ୍ଦିନ	unk
+3	କାର୍ଯ୍ୟ	unk
+4	ମଧ୍ୟରେ	unk
+5	କିମ୍ବା	unk
+6	ପିତାମାତାଙ୍କ	unk
+7	ଠାରୁ	unk
+8	ଖବର	unk
+9	ପାଇ	unk
+10	ଅଙ୍ଗନୱାଡି	unk
+11	କର୍ମୀ	unk
+12	ଅସୁସ୍ଥ	unk
+13	ଶିଶୁଙ୍କର	unk
+14	ସମ୍ପର୍କରେ	unk
+15	ଆସିଥାନ୍ତି	unk
+16	।	unk
+</Sentence>
+
+<Sentence id='3'>
+1	ଏହି	unk
+2	ସବୁ	unk
+3	କ୍ଷେତ୍ରରେ	unk
+4	ଅଙ୍ଗନୱାଡି	unk
+5	କର୍ମୀ	unk
+6	ଏକ	unk
+7	ଅର୍ଥପୂର୍ଣ୍ଣ	unk
+8	ପ୍ରାଥମିକ	unk
+9	ପରୀକ୍ଷା	unk
+10	କରିବେ	unk
+11	ଏବଂ	unk
+12	କୌଣସି	unk
+13	ବିପଦସଂକେତକୁ	unk
+14	ଯଦି	unk
+15	ଥାଏ	unk
+16	ଦେଖିବେ	unk
+17	।	unk
+</Sentence>
+
+<Sentence id='4'>
+1	ଅଙ୍ଗନୱାଡି	unk
+2	କର୍ମୀ	unk
+3	ମା	unk
+4	’	unk
+5	ଙ୍କୁ	unk
+6	ଶିଶୁର	unk
+7	ଅସୁବିଧା	unk
+8	ବିଷୟରେ	unk
+9	ନିଶ୍ଚୟ	unk
+10	ପଚାରିବେ	unk
+11	ଏବଂ	unk
+12	ସାଧାରଣ	unk
+13	ବିପଦସଂକେତ	unk
+14	ପାଇଁ	unk
+15	ଶିଶୁକୁ	unk
+16	ଯାଞ୍ଚ	unk
+17	କରିବେ	unk
+18	।	unk
+</Sentence>
+
+<Sentence id='5'>
+1	ତାପରେ	unk
+2	ସେ	unk
+3	୪ଟ	unk
+4	ି	unk
+5	ମୁଖ୍ୟ	unk
+6	ଲକ୍ଷଣ	unk
+7	ବିଷୟରେ	unk
+8	ପଚାରିବେ	unk
+9	।	unk
+</Sentence>
+
